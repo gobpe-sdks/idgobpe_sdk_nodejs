@@ -4,6 +4,7 @@
 
 module.exports = Object.freeze({
     ACR_ONE_FACTOR: 'one_factor',
+    ACR_TWO_FACTOR: 'two_factor',
     ACR_CERTIFICATE_DNIE: 'certificate_dnie',
     ACR_CERTIFICATE_TOKEN: 'certificate_token',
     ACR_CERTIFICATE_DNIE_LEGACY: 'certificate_dnie_legacy',
